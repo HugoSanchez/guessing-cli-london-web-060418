@@ -15,7 +15,6 @@ def run_guessing_game
     else
       puts "Invalid input"
     break
-    
     end
   end
 end
